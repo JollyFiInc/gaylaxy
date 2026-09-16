@@ -1,0 +1,17 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+coverage/
+.vite/
+.cache/
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
+*.log
+/*.zip
+public/encoder/
+validation/
+*.tsbuildinfo

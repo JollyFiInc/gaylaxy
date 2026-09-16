@@ -1,0 +1,9 @@
+{
+  "ffmpeg-wrapper-LICENSE.txt": "https://raw.githubusercontent.com/ffmpegwasm/ffmpeg.wasm/71aa99d37c02a7b4c435275ca9ef50e612f6efa1/LICENSE",
+  "ffmpeg-core-COPYING.GPLv2.txt": "https://raw.githubusercontent.com/FFmpeg/FFmpeg/n5.1.4/COPYING.GPLv2",
+  "ffmpeg-COPYING.LGPLv2.1.txt": "https://raw.githubusercontent.com/FFmpeg/FFmpeg/n5.1.4/COPYING.LGPLv2.1",
+  "ffmpeg-core-LICENSE.md": "https://raw.githubusercontent.com/FFmpeg/FFmpeg/n5.1.4/LICENSE.md",
+  "ffmpeg-core-Dockerfile.txt": "https://raw.githubusercontent.com/ffmpegwasm/ffmpeg.wasm/71aa99d37c02a7b4c435275ca9ef50e612f6efa1/Dockerfile",
+  "ffmpeg-core-build.txt": "https://raw.githubusercontent.com/ffmpegwasm/ffmpeg.wasm/71aa99d37c02a7b4c435275ca9ef50e612f6efa1/build/ffmpeg.sh",
+  "ffmpeg-core-wasm-build.txt": "https://raw.githubusercontent.com/ffmpegwasm/ffmpeg.wasm/71aa99d37c02a7b4c435275ca9ef50e612f6efa1/build/ffmpeg-wasm.sh"
+}

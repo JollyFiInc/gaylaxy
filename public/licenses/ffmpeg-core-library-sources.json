@@ -1,0 +1,135 @@
+[
+  {
+    "name": "x264",
+    "file": "ffmpeg-core-x264-COPYING",
+    "sourceUrl": "https://github.com/ffmpegwasm/x264/tree/4-cores",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/x264/4-cores/COPYING",
+    "bytes": 17992
+  },
+  {
+    "name": "x265",
+    "file": "ffmpeg-core-x265-COPYING",
+    "sourceUrl": "https://github.com/ffmpegwasm/x265/tree/3.4",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/x265/3.4/COPYING",
+    "bytes": 18120
+  },
+  {
+    "name": "libvpx",
+    "file": "ffmpeg-core-libvpx-LICENSE",
+    "sourceUrl": "https://github.com/ffmpegwasm/libvpx/tree/v1.13.1",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/libvpx/v1.13.1/LICENSE",
+    "bytes": 1537
+  },
+  {
+    "name": "libvpx",
+    "file": "ffmpeg-core-libvpx-PATENTS",
+    "sourceUrl": "https://github.com/ffmpegwasm/libvpx/tree/v1.13.1",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/libvpx/v1.13.1/PATENTS",
+    "bytes": 1436
+  },
+  {
+    "name": "lame",
+    "file": "ffmpeg-core-lame-COPYING",
+    "sourceUrl": "https://github.com/ffmpegwasm/lame/tree/master",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/lame/master/COPYING",
+    "bytes": 25284
+  },
+  {
+    "name": "ogg",
+    "file": "ffmpeg-core-ogg-COPYING",
+    "sourceUrl": "https://github.com/ffmpegwasm/Ogg/tree/v1.3.4",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/Ogg/v1.3.4/COPYING",
+    "bytes": 1466
+  },
+  {
+    "name": "theora",
+    "file": "ffmpeg-core-theora-COPYING",
+    "sourceUrl": "https://github.com/ffmpegwasm/theora/tree/v1.1.1",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/theora/v1.1.1/COPYING",
+    "bytes": 1470
+  },
+  {
+    "name": "opus",
+    "file": "ffmpeg-core-opus-COPYING",
+    "sourceUrl": "https://github.com/ffmpegwasm/opus/tree/v1.3.1",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/opus/v1.3.1/COPYING",
+    "bytes": 1928
+  },
+  {
+    "name": "vorbis",
+    "file": "ffmpeg-core-vorbis-COPYING",
+    "sourceUrl": "https://github.com/ffmpegwasm/vorbis/tree/v1.3.3",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/vorbis/v1.3.3/COPYING",
+    "bytes": 1470
+  },
+  {
+    "name": "zlib",
+    "file": "ffmpeg-core-zlib-README",
+    "sourceUrl": "https://github.com/ffmpegwasm/zlib/tree/v1.2.11",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/zlib/v1.2.11/README",
+    "bytes": 5187
+  },
+  {
+    "name": "libwebp",
+    "file": "ffmpeg-core-libwebp-COPYING",
+    "sourceUrl": "https://github.com/ffmpegwasm/libwebp/tree/v1.3.2",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/libwebp/v1.3.2/COPYING",
+    "bytes": 1496
+  },
+  {
+    "name": "libwebp",
+    "file": "ffmpeg-core-libwebp-PATENTS",
+    "sourceUrl": "https://github.com/ffmpegwasm/libwebp/tree/v1.3.2",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/libwebp/v1.3.2/PATENTS",
+    "bytes": 1436
+  },
+  {
+    "name": "freetype",
+    "file": "ffmpeg-core-freetype-LICENSE.TXT",
+    "sourceUrl": "https://github.com/ffmpegwasm/freetype2/tree/VER-2-10-4",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/freetype2/VER-2-10-4/docs/LICENSE.TXT",
+    "bytes": 1743
+  },
+  {
+    "name": "freetype",
+    "file": "ffmpeg-core-freetype-FTL.TXT",
+    "sourceUrl": "https://github.com/ffmpegwasm/freetype2/tree/VER-2-10-4",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/freetype2/VER-2-10-4/docs/FTL.TXT",
+    "bytes": 6743
+  },
+  {
+    "name": "freetype",
+    "file": "ffmpeg-core-freetype-GPLv2.TXT",
+    "sourceUrl": "https://github.com/ffmpegwasm/freetype2/tree/VER-2-10-4",
+    "noticeUrl": "https://raw.githubusercontent.com/ffmpegwasm/freetype2/VER-2-10-4/docs/GPLv2.TXT",
+    "bytes": 17994
+  },
+  {
+    "name": "fribidi",
+    "file": "ffmpeg-core-fribidi-COPYING",
+    "sourceUrl": "https://github.com/fribidi/fribidi/tree/v1.0.9",
+    "noticeUrl": "https://raw.githubusercontent.com/fribidi/fribidi/v1.0.9/COPYING",
+    "bytes": 26440
+  },
+  {
+    "name": "harfbuzz",
+    "file": "ffmpeg-core-harfbuzz-COPYING",
+    "sourceUrl": "https://github.com/harfbuzz/harfbuzz/tree/5.2.0",
+    "noticeUrl": "https://raw.githubusercontent.com/harfbuzz/harfbuzz/5.2.0/COPYING",
+    "bytes": 1829
+  },
+  {
+    "name": "libass",
+    "file": "ffmpeg-core-libass-COPYING",
+    "sourceUrl": "https://github.com/libass/libass/tree/0.15.0",
+    "noticeUrl": "https://raw.githubusercontent.com/libass/libass/0.15.0/COPYING",
+    "bytes": 755
+  },
+  {
+    "name": "zimg",
+    "file": "ffmpeg-core-zimg-COPYING",
+    "sourceUrl": "https://github.com/sekrit-twc/zimg/tree/release-3.0.5",
+    "noticeUrl": "https://raw.githubusercontent.com/sekrit-twc/zimg/release-3.0.5/COPYING",
+    "bytes": 484
+  }
+]

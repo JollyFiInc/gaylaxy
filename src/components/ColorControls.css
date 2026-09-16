@@ -1,0 +1,18 @@
+.color-controls{margin-top:23px;padding-top:20px;border-top:1px solid var(--line)}
+.color-controls-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px}
+.color-controls-heading h3{margin:0;font-size:13px;font-weight:600;color:#60465a}
+.color-controls fieldset{margin:0 0 17px;padding:0;border:0;min-width:0}
+.color-controls fieldset:last-child{margin-bottom:0}
+.color-controls legend{padding:0;margin-bottom:8px;font-size:10px;font-weight:650;color:#92748a}
+.color-controls-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+.color-field{display:flex;flex-direction:column;gap:6px;min-width:0;padding:9px;border:1px solid var(--line);border-radius:7px;background:#fffcfe}
+.color-field-label{font-size:10px;color:#80687a}
+.color-field-value{display:flex;align-items:center;gap:8px;min-width:0}
+.color-field input[type=color]{width:31px;height:27px;padding:2px;border:1px solid #dbcbd6;border-radius:5px;background:white;cursor:pointer;flex-shrink:0}
+.color-field input[type=color]::-webkit-color-swatch-wrapper{padding:0}
+.color-field input[type=color]::-webkit-color-swatch{border:0;border-radius:2px}
+.color-field input[type=color]::-moz-color-swatch{border:0;border-radius:2px}
+.color-field input[type=color]:disabled{cursor:default;opacity:.5}
+.color-field output{font-size:10px;color:#927a8b;font-variant-numeric:tabular-nums}
+.color-controls-note{font-size:10px;line-height:1.5;color:#9b8494;margin-top:8px}
+@media(max-width:390px){.color-field{padding:8px 6px}.color-field-value{gap:5px}.color-field output{font-size:9px}}
